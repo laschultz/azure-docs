@@ -23,7 +23,7 @@ Azure Active Directory (Azure AD) enables you to securely manage access to Azure
 With Azure AD, you can create and manage users and groups, and enable permissions to allow and deny access to enterprise resources. For information about identity management, see [The fundamentals of Azure identity management](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals-identity).
 
 ## Azure AD architecture
-Azure AD's geographically distributed architecture combines extensive monitoring, automated rerouting, failover, and recovery capabilities enable us to deliver enterprise-level availability and performance to our customers.
+new text 
 
 The following architecture elements are covered in this article:
  *	Service architecture design
